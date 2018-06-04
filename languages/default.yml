@@ -39,12 +39,3 @@ footer:
 disqus:
   load: load disqus
   failed: 😑 faild to load disqus, click to retry
-
-search:
-  placeholder: Searching...
-
-reward:
-  donate: Donate
-  wechatpay: WeChat Pay
-  alipay: Alipay
-  bitcoin: Bitcoin

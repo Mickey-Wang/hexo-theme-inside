@@ -35,12 +35,3 @@ page:
 disqus:
   load: disqus をロードする
   failed: 😑 disqus の読み込みに失敗し、再試行
-
-search:
-  placeholder: 検索…
-
-reward:
-  donate: Donate
-  wechatpay: WeChat 支払う
-  alipay: Alipay
-  bitcoin: Bitcoin

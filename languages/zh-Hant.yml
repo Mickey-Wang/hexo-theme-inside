@@ -39,12 +39,3 @@ footer:
 disqus:
   load: 加載 disqus
   failed: 😑 加載 disqus 失敗，點擊嘗試重新加載
-
-search:
-  placeholder: 搜索...
-
-reward:
-  donate: 打賞
-  wechatpay: 微信支付
-  alipay: 支付寶
-  bitcoin: 比特幣
