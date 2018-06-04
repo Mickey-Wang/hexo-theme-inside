@@ -10,3 +10,41 @@ title:
   category: 分类
   tag: 标签
   about: 关于
+
+page:
+  tags:
+    zero: 暂无标签。
+    one: 共计 1 个标签。
+    other: "共计 %d 个标签。"
+
+  categories:
+    zero: 暂无分类。
+    one: 共计 1 个分类。
+    other: "共计 %d 个分类。"
+
+  archives:
+    zero: 暂无日志.
+    one: 共计 1 篇日志。
+    other: "共计 %d 篇日志。"
+
+  notfound:
+    direct_failed: "无法跳转到 %s。"
+    back_to_home: 返回首页
+    empty: 什么也没有 😂。
+
+footer:
+  powered: "由 %s 强力驱动"
+  theme: 主题
+
+disqus:
+  load: 加载 disqus
+  failed: 😑 加载 disqus 失败，点击尝试重新加载
+
+search:
+  placeholder: 搜索...
+
+reward:
+  donate: 打赏
+  wechatpay: 微信支付
+  alipay: 支付宝
+  bitcoin: 比特币

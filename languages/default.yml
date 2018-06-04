@@ -10,3 +10,41 @@ title:
   category: Category
   tag: Tag
   about: About
+
+page:
+  tags:
+    zero: No tags.
+    one: 1 tag in total.
+    other: "%d tags in total."
+
+  categories:
+    zero: No categories.
+    one: 1 category in total.
+    other: "%d categories in total."
+
+  archives:
+    zero: No posts.
+    one: 1 post in total.
+    other: "%d posts in total."
+
+  notfound:
+    direct_failed: "Failed to direct to %s."
+    back_to_home: back to home
+    empty: Nothing here 😂.
+
+footer:
+  powered: "Powered by %s"
+  theme: Theme
+
+disqus:
+  load: load disqus
+  failed: 😑 faild to load disqus, click to retry
+
+search:
+  placeholder: Searching...
+
+reward:
+  donate: Donate
+  wechatpay: WeChat Pay
+  alipay: Alipay
+  bitcoin: Bitcoin

@@ -10,3 +10,37 @@ title:
   category: カテゴリ
   tag: タグ
   about: About
+
+page:
+  tags:
+    zero: タグなし。
+    one: 全 1 タグ。
+    other: "全 %d タグ。"
+
+  categories:
+    zero: カテゴリなし。
+    one: 全 1 カテゴリ。
+    other: "全 %d カテゴリ。"
+
+  archives:
+    zero: ポストなし。
+    one: 全 1 ポスト。
+    other: "全 %d ポスト。"
+
+  notfound:
+    direct_failed: "%s への誘導に失敗しました。"
+    back_to_home: ホームページに戻る
+    empty: ここには何もありません 😂。
+
+disqus:
+  load: disqus をロードする
+  failed: 😑 disqus の読み込みに失敗し、再試行
+
+search:
+  placeholder: 検索…
+
+reward:
+  donate: Donate
+  wechatpay: WeChat 支払う
+  alipay: Alipay
+  bitcoin: Bitcoin

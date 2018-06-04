@@ -2,11 +2,49 @@ menu:
   home: 首頁
   archives: 歸檔
   categories: 分類
-  tags: 標籤
+  tags: 標簽
   about: 關於
 
 title:
   archive: 歸檔
   category: 分類
-  tag: 標籤
+  tag: 標簽
   about: 關於
+
+page:
+  tags:
+    zero: 暫無標簽。
+    one: 共計 1 個標簽。
+    other: "共計 %d 個標簽。"
+
+  categories:
+    zero: 暫無分類。
+    one: 共計 1 個分類。
+    other: "共計 %d 個分類。"
+
+  archives:
+    zero: 暫無日誌.
+    one: 共計 1 篇日誌。
+    other: "共計 %d 篇日誌。"
+
+  notfound:
+    direct_failed: "無法跳轉到 %s。"
+    back_to_home: 返回首頁
+    empty: 什麽也沒有 😂。
+
+footer:
+  powered: "由 %s 強力驅動"
+  theme: 主題
+
+disqus:
+  load: 加載 disqus
+  failed: 😑 加載 disqus 失敗，點擊嘗試重新加載
+
+search:
+  placeholder: 搜索...
+
+reward:
+  donate: 打賞
+  wechatpay: 微信支付
+  alipay: 支付寶
+  bitcoin: 比特幣
